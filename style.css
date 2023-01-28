@@ -131,9 +131,8 @@ h5{
   justify-content: space-between;
   flex-direction: row;
   flex-wrap: wrap;
+  padding-bottom: 50px; /*Fix*/
 }
-
-
 
 .service-box {
   font-size: 1.7em;
